@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classwork/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Classwork/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/Homework02.2/Homework02.2.iml" filepath="$PROJECT_DIR$/Homework/Homework02.2/Homework02.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/Homework02.3/Homework02.3.iml" filepath="$PROJECT_DIR$/Homework/Homework02.3/Homework02.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Multimedia_Computer_Graphics.iml" filepath="$PROJECT_DIR$/.idea/Multimedia_Computer_Graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classwork/Session02_20260122/Session02_20260122.iml" filepath="$PROJECT_DIR$/Classwork/Session02_20260122/Session02_20260122.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classwork/Session03_20260127/Session03_20260127.iml" filepath="$PROJECT_DIR$/Classwork/Session03_20260127/Session03_20260127.iml" />
+    </modules>
+  </component>
+</project>
