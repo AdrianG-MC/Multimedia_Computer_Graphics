@@ -14,8 +14,8 @@ public static void main(String[] args) {
     // Triangular gradient
 
     double Ax = 0, Ay = height;
-    double Cx = width / 2d, Cy = 0;
     double Bx = width, By = height;
+    double Cx = width / 2d, Cy = 0;
 
     double denominator = ((By - Cy) * (Ax - Cx) + (Cx - Bx) * (Ay - Cy));
 
