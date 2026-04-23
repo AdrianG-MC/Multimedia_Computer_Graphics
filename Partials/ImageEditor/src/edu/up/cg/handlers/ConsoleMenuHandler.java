@@ -135,7 +135,7 @@ public class ConsoleMenuHandler {
      *
      * Menu options:
      *   1 – Crop     (resize canvas to a selected area)
-     *   2 – Invert   (negate colours, full image or region)
+     *   2 – Invert   (negate colors, full image or region)
      *   3 – Rotate   (rotate a region 90°/180°/270°)
      *   4 – Save     (write result to Images/Edited/)
      *   5 – Exit     (quit without saving if not already saved)
@@ -165,7 +165,7 @@ public class ConsoleMenuHandler {
     }
 
     /**
-     * Saves the current (also if its edited or not) image to the Edited folder.
+     * Saves the current (also if It's edited or not) image to the Edited folder.
      *
      * Delegates to ImageFileHandler.save(), which automatically appends
      * "_edited" to the original file name:

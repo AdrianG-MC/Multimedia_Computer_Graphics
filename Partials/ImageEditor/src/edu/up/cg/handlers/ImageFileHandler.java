@@ -11,15 +11,15 @@ import java.io.IOException;
  *   - Listing available images in the Input folder.
  *   - Loading a selected image from disk into a BufferedImage.
  *   - Saving the edited BufferedImage to the Edited folder.
- *
+ * <p>
  * Folder layout (relative to the project root / working directory):
  *   src/edu/up/cg/Images/
  *       Input/        ← place images here before running
  *       Edited/       ← saved results appear here (auto-created)
- *
+ * <p>
  * Supported image formats for INPUT:  PNG, JPG, JPEG, BMP
  * Output format is inferred from the original file's extension.
- *
+ * <p>
  * Naming convention for saved files:
  *   <originalName>_edited.<extension>
  *   Example: photo.png  →  photo_edited.png
