@@ -46,8 +46,8 @@ public class Main {
 
         // Env variables
 
-        System.setProperty("GEMINI_API_KEY", "AIzaSyB9dCNGuJFvJOLU_XT3-AJh1A40mJfNBqA");
-        System.setProperty("GEOAPIFY_API_KEY", "89a347a35b9446e1ac1cdb174a484ac4");
+        System.setProperty("GEMINI_API_KEY", "YOUR KEY HERE");
+        System.setProperty("GEOAPIFY_API_KEY", "YOUR KEY HERE");
 
         try {
             EnvConfig.requireEnv("GEMINI_API_KEY");
